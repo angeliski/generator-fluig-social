@@ -1,0 +1,19 @@
+{
+  "name": "generator-fluig-social",
+  "version": "1.0.0",
+  "description": "a scallfolding for the Fluig Social Card",
+  "files": [
+    "app",
+    "widget",
+    "component"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "rogerio.angeliski",
+  "main": "app/index.js",
+  "dependencies": {
+    "yeoman-generator": "^0.20.1",
+    "underscore.string": "^3.0.3"
+  }
+}
